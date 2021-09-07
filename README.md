@@ -1,2 +1,2 @@
-# prvi
+# Prvi
 Prvi projekt
